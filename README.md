@@ -2,6 +2,8 @@
 
 ## **Project Overview**
 This project analyzes liquor sales trends in Iowa using a 5% sample of the original dataset, which consisted of approximately 29.88 million records over the years (2012 - 2024). The goal was to uncover patterns and insights that could inform business strategies and operational decisions for liquor retailers and distributors.
+### Tableau Visualization
+[View my Tableau Dashboard here!]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/views/IowaLiquerSales/IOWALIQUERSALES?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
